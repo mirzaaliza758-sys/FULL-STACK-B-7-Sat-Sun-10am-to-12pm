@@ -1,5 +1,4 @@
-# First program
-print ("Starts here")
+print("alizamirza-writer", end=)
 
 name = input("Please enter your name: ")
 
